@@ -16,7 +16,7 @@ spring:
   datasource:
     platform: "postgres"
     driverClassName: "org.postgresql.Driver"
-    url: "jdbc:postgresql://localhost:5432/eagle_eye_local"
+    url: "jdbc:postgresql://localhost:5432/eagle_eye_local2"
     username: "postgres"
     password: "p0stgr@s"
     testWhileIdle: "true"
