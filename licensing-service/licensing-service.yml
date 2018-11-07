@@ -2,6 +2,7 @@ example.property: "I AM IN THE DEFAULT"
 endpoints.health.sensitive: false
 endpoints.restart.enabled: true
 management.endpoints.web.exposure.include: bean,health,env,refresh
+spring.main.allow-bean-definition-overriding: true
 spring:
   jpa:
     database: "POSTGRESQL"
