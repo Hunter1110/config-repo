@@ -1,4 +1,4 @@
-example.property: "I AM IN THE DEFAULT"
+example.property: "I AM IN THE DEFAULT SS"
 endpoints.health.sensitive: false
 endpoints.restart.enabled: true
 management.endpoints.web.exposure.include: bean,health,env,refresh
