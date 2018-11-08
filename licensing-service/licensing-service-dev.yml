@@ -1,2 +1,5 @@
 example.property: "I AM IN THE Development"
 management.endpoints.web.exposure.include: '*'
+spring:
+  datasource:
+    url: "jdbc:postgresql://localhost:5432/eagle_eye_local"
